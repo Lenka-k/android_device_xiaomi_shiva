@@ -1,4 +1,4 @@
-# Device tree for Redmi 9
+# Device tree for POCO M2
 
 ```
 #
