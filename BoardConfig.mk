@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/xiaomi/lancelot
+DEVICE_PATH := device/xiaomi/shiva
 
 # Inherit from mt6768-common
 -include device/xiaomi/mt6768-common/BoardConfigCommon.mk
@@ -22,7 +22,7 @@ ODM_MANIFEST_SKUS += \
 ODM_MANIFEST_GALAHAD_FILES := $(DEVICE_PATH)/manifest_galahad.xml
 
 # Kernel
-TARGET_KERNEL_CONFIG := lancelot_defconfig
+TARGET_KERNEL_CONFIG := shiva_defconfig
 
 # Inherit the proprietary files
-include vendor/xiaomi/lancelot/BoardConfigVendor.mk
+include vendor/xiaomi/shiva/BoardConfigVendor.mk
