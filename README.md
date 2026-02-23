@@ -8,7 +8,7 @@
 #
 ```
 
-The Xiaomi Redmi 9 (codenamed _"lancelot"_) is an entry-level smartphone from Xiaomi announced in June 2020.
+The Xiaomi POCO M2 (codenamed _"shiva"_) is an entry-level smartphone from Xiaomi announced in June 2020.
 
 ## Device Specifications
 
@@ -30,7 +30,3 @@ The Xiaomi Redmi 9 (codenamed _"lancelot"_) is an entry-level smartphone from Xi
 | Rear Camera 4           | 2 MP, f/2.4, (depth)                                        |
 | Front Camera            | 8 MP, f/2.0, 27mm (wide), 1/4.0", 1.12µm                    |
 
-
-## Device Picture
-
-![Xiaomi Redmi 9](https://i01.appmifile.com/webfile/globalimg/zhouyuxin/J19-Green-800!800x800!85.png)
