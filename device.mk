@@ -70,6 +70,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.build.maker=ankeezay
+
 # Shipping API Level
 PRODUCT_SHIPPING_API_LEVEL := 29
 
