@@ -14,7 +14,7 @@ $(call inherit-product, device/xiaomi/shiva/device.mk)
 # Inherit some common LineageOS stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
-PRODUCT_NAME := crDroid_shiva
+PRODUCT_NAME := ankeezay_shiva
 PRODUCT_DEVICE := shiva
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := POCO
