@@ -8,7 +8,7 @@
 
 set -e
 
-export DEVICE=lancelot
+export DEVICE=shiva
 export DEVICE_COMMON=mt6768-common
 export VENDOR=xiaomi
 
