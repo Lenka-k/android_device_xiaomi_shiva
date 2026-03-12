@@ -28,7 +28,7 @@ TARGET_SCREEN_WIDTH := 1080
 TARGET_SCREEN_HEIGHT := 2340
 
 # Firmware
-RECOVERY_TS_FW_PATH := vendor/xiaomi//proprietary/vendor/firmware
+RECOVERY_TS_FW_PATH := vendor/xiaomi/shiva/proprietary/vendor/firmware
 
 PRODUCT_COPY_FILES += \
     $(RECOVERY_TS_FW_PATH)/focaltech_mp_fw_huaxing.ini:recovery/root/vendor/firmware/focaltech_mp_fw_huaxing.ini \
