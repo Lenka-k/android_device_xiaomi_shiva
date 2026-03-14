@@ -23,6 +23,7 @@ PRODUCT_MODEL := POCO M2
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="shiva-user 11 RP1A.200720.011 V12.5.6.0.RJRINXM release-keys"
+    DeviceName=ankeezay \
+    BuildDesc="shiva-user 11 RP1A.200720.011 V12.5.6.0.RJRINXM release-keys"
 
 BUILD_FINGERPRINT := POCO/shiva/shiva:11/RP1A.200720.011/V12.5.6.0.RJRINXM:user/release-keys
